@@ -14,8 +14,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech student passionate about **AI, Data Science & Cloud**
-- 🤖 Working on **AI + Robotics** projects (ArchaeoMind)
-- 📊 Interested in **Machine Learning, Image Processing & Analytics**
 - ☁️ Learning **Azure & Google Cloud**
 - 🚀 Always exploring real-world problem solving
 
