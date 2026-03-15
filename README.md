@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Abhinav</h1>
+<h1 align="center">Hi I'm Abhinav Rama</h1>
 <h3 align="center">B.Tech Student | AI • Data • Cloud • Software</h3>
 
 <p align="center">
