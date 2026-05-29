@@ -1,5 +1,5 @@
-<h1 align="center">Hi I'm Abhinav Rama</h1>
-<h3 align="center">B.Tech Student | AI • Data • Cloud • Software</h3>
+<h1 align="center">Hi 👋, I'm Abhinav Rama</h1>
+<h3 align="center">B.Tech Computer Science Student | Software Development | AI & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-rama-b44302304">
@@ -12,44 +12,88 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech student passionate about **AI, Data Science & Cloud**
-- ☁️ Learning **Azure & Google Cloud**
-- 🚀 Always exploring real-world problem solving
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Student
+
+💡 Interested in:
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Cloud Computing
+- Data Science
+
+📚 Currently focusing on:
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Cloud Technologies (Azure & Google Cloud)
+- Placement Preparation (2027)
+
+🏆 Building impactful projects that combine technology, problem-solving, and real-world applications.
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
+## 🛠️ Technical Skills
 
+### Programming Languages
+
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+### Databases
 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
+### Data Science & AI
+
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+### Cloud Technologies
 
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
+
+### 🚀 ProjectFlow
+Real-time project management and team collaboration platform featuring task tracking, live collaboration, analytics dashboards, and secure authentication.
+
+### 🤖 TalentAI
+AI-powered career development platform with personalized recommendations, resume insights, and skill-based learning guidance.
+
+### 🏛️ ArchaeoMind
+AI-driven archaeology and heritage analysis platform for research, artifact classification, and historical insights.
+
+### 🔐 SecureVote
+Blockchain-based digital voting system utilizing cryptographic security and tamper-resistant vote storage.
+
+### 💰 Daily Expense Tracker
+Personal finance management application with expense tracking, budgeting, analytics, and secure user authentication.
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavS0201&theme=vision-friendly-dark&hide_border=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhinavS0201&theme=vision-friendly-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavS0201&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavS0201&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -58,25 +102,30 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavS0201&theme=darkhub&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavS0201&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+## 📈 Coding Journey
+
+- Solving Data Structures & Algorithms problems
+- Exploring AI & Machine Learning applications
+- Building full-stack software solutions
+- Learning Cloud & Scalable Systems
+- Preparing for Software Engineering roles (2027)
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AbhinavS0201&icon=0&color=0"/>
-</p>
+## 📫 Connect With Me
+
+📧 Email: abhinavrama2005@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/abhinav-rama-b44302304
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
