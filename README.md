@@ -83,36 +83,12 @@ Blockchain-based digital voting system utilizing cryptographic security and tamp
 
 ### 💰 Daily Expense Tracker
 Personal finance management application with expense tracking, budgeting, analytics, and secure user authentication.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavS0201&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavS0201&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavS0201&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhinavS0201&theme=darkhub&no-frame=true&margin-w=15"/>
-</p>
-
 ---
 
 ## 📈 Coding Journey
 
 - Solving Data Structures & Algorithms problems
+- Learning System Design Fundamentals
 - Exploring AI & Machine Learning applications
 - Building full-stack software solutions
 - Learning Cloud & Scalable Systems
