@@ -92,8 +92,6 @@ Personal finance management application with expense tracking, budgeting, analyt
 - 🤖 Microsoft Learn — Microsoft 365: Copilot Chat Explorer | May 2026
 
 - 📊 Deloitte Australia (Forage) — Data Analytics Job Simulation | April 2026
-  - Data Analysis
-  - Forensic Technology
 
 ---
 
