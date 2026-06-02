@@ -85,6 +85,18 @@ Blockchain-based digital voting system utilizing cryptographic security and tamp
 Personal finance management application with expense tracking, budgeting, analytics, and secure user authentication.
 ---
 
+## 🏅 Certifications
+
+- 🔐 Cisco Networking Academy — Introduction to Cybersecurity (Verified Digital Badge) | May 2026
+
+- 🤖 Microsoft Learn — Microsoft 365: Copilot Chat Explorer | May 2026
+
+- 📊 Deloitte Australia (Forage) — Data Analytics Job Simulation | April 2026
+  - Data Analysis
+  - Forensic Technology
+
+---
+
 ## 📈 Coding Journey
 
 - Solving Data Structures & Algorithms problems
