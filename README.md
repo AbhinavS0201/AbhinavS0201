@@ -83,9 +83,8 @@ Blockchain-based digital voting system utilizing cryptographic security and tamp
 
 ### 💰 Daily Expense Tracker
 Personal finance management application with expense tracking, budgeting, analytics, and secure user authentication.
----
----
 
+---
 ## 🏅 Certifications
 
 - 🔐 Cisco Networking Academy — Introduction to Cybersecurity (Verified Digital Badge) | May 2026
