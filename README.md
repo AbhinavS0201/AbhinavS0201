@@ -69,6 +69,9 @@
 
 ## 🌟 Featured Projects
 
+### 🛡️ Web Vulnerability Scanner
+Automated web vulnerability assessment tool built with Python & Streamlit. Checks OWASP Top 10 security issues — HTTP headers, SSL/TLS certificates, open ports, and server configurations. Generates weighted security scores (0–100) and downloadable PDF reports with remediation recommendations.
+
 ### 🚀 ProjectFlow
 Real-time project management and team collaboration platform featuring task tracking, live collaboration, analytics dashboards, and secure authentication.
 
