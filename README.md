@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,50:7B42F6,100:FF3B3B&height=210&section=header&text=Abhinav%20Rama&fontSize=58&fontColor=fff&fontAlignY=40&desc=Building%20at%20the%20intersection%20of%20AI%20%26%20Cloud&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF3B3B&height=210&section=header&text=Abhinav%20Rama&fontSize=58&fontColor=fff&fontAlignY=38&animation=twinkling&desc=Building%20at%20the%20Intersection%20of%20AI%20%26%20Cloud&descAlignY=58&descSize=17&descColor=fff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=650&lines=Turning+Data+into+Decisions;Shipping+ML+that+Ships;Securing+the+Web%2C+One+Scan+at+a+Time;Prepping+for+2027+Placements+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=FF3B3B&center=true&vCenter=true&width=650&lines=Software+Development;Artificial+Intelligence+%26+ML;Cloud+Computing+%E2%80%94+Azure+%26+GCP;Data+Science;Prepping+for+2027+Placements" alt="Typing SVG"/>
 
 <br>
 
@@ -191,6 +191,8 @@ Personal finance app for expense logging, budgeting, and spend analytics behind 
   <img alt="github-snake" src="https://raw.githubusercontent.com/AbhinavS0201/AbhinavS0201/output/github-snake.svg" />
 </picture>
 
+<sub><i>(Blank until the snake.yml workflow runs once — see setup notes below.)</i></sub>
+
 </div>
 
 <img src="assets/light-divider.svg" width="100%"/>
@@ -208,6 +210,6 @@ Personal finance app for expense logging, budgeting, and spend analytics behind 
 
 <sub>⭐ Thanks for stopping by — feel free to explore the repos.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:FF3B3B,50:7B42F6,100:0D1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,100:0D1117&height=100&section=footer"/>
 
 </div>
