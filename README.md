@@ -581,11 +581,9 @@ Currently Learning
 
 <div align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/TYD6nogSJM/)">
+<img src="https://leetcard.jacoblin.cool/TYD6nogSJM?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
+</div>
 
 
 </div>
