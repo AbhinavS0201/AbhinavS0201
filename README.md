@@ -577,28 +577,21 @@ Currently Learning
 
 ---
 
-# 💻 Coding Profiles
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/TYD6nogSJM?theme=dark&font=JetBrains+Mono&ext=contest"/>
-
-</div>
-
-
-</div>
-
 ---
 
 # 📈 LeetCode Progress
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<a href="https://leetcode.com/u/TYD6nogSJM/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/TYD6nogSJM?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
-
-> Replace **YOUR_LEETCODE_USERNAME** with your actual username.
 
 ---
 
