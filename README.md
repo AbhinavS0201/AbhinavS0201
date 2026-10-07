@@ -105,7 +105,7 @@ Real-time support ticket management system with live updates over WebSockets.
 <td colspan="2" valign="top">
 
 ### 🧬 DenWide-Net *(research implementation)*
-Reproducing and improving a Dense WideResNet for autism spectrum disorder detection from MRI, targeting higher accuracy than the published baseline.
+Reproducing and improving a Dense WideResNet for autism spectrum disorder detection from MRI, targeting to get better model than the published one.
 
 `Python` `Deep Learning` `Medical Imaging`
 
