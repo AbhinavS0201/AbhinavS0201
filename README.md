@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/abhinav-rama-b44302304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhinavrama2005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/TYD6nogSJM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://komarev.com/ghpvc/?username=AbhinavS0201&style=for-the-badge&label=PROFILE+VIEWS&color=7B42F6"/>
 
 </div>
@@ -59,22 +58,14 @@ CNN-based archaeological artifact classification using **MobileNetV2**, backed b
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Brain Tumor Detection
-Medical imaging web app using **MobileNetV2** with **Grad-CAM** explainability, served through Flask with a dark-themed UI.
-
-`TensorFlow` `Flask` `Grad-CAM` `Deep Learning`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛡️ [Web Vulnerability Scanner](https://github.com/AbhinavS0201/Web_Vulnerability_Scanner)
 Automated scanner for OWASP Top 10 checks, SSL/TLS validation, security headers and open ports, with a 0-100 security score and downloadable PDF reports.
 
 `Python` `Streamlit` `SQLite` `ReportLab`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚨 Intelligent Fraud Response System *(in progress)*
@@ -83,8 +74,6 @@ AI first responder for financial fraud victims: scam classification, recovery gu
 `React` `FastAPI` `MongoDB` `Gemini API`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💰 [Daily Expense Tracker](https://github.com/AbhinavS0201/Daily_Expense_Tracker)
@@ -93,6 +82,8 @@ Full-stack personal finance manager with authentication, monthly analytics, char
 `React` `Node.js` `Express` `MySQL`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎯 InterviewPrep AI *(in progress)*
@@ -101,8 +92,6 @@ DSA prep platform combining a code library, AI dry-run engine, LeetCode browser 
 `MERN` `LLM APIs` `RAG`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎫 TicketFlow
@@ -111,7 +100,9 @@ Real-time support ticket management system with live updates over WebSockets.
 `React` `Node.js` `Socket.IO`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🧬 DenWide-Net *(research implementation)*
 Reproducing and improving a Dense WideResNet for autism spectrum disorder detection from MRI, targeting higher accuracy than the published baseline.
@@ -147,27 +138,11 @@ Reproducing and improving a Dense WideResNet for autism spectrum disorder detect
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhinavS0201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="170" src="https://streak-stats.demolab.com?user=AbhinavS0201&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavS0201&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavS0201&theme=tokyo-night&hide_border=true&area=true"/>
-
-<img src="https://leetcard.jacoblin.cool/TYD6nogSJM?theme=dark&font=JetBrains+Mono&ext=contest"/>
-
-</div>
-
----
-
 ## 🗺️ 2026-27 Roadmap
 
 - [x] Build AI/ML projects with real datasets and research output
 - [x] Complete 5 internships across full stack, ML, security and cloud
-- [ ] Master DSA and reach 500+ LeetCode problems
+- [ ] Master DSA and problem solving
 - [ ] Ship InterviewPrep AI and the Fraud Response System
 - [ ] Learn system design and backend architecture in depth
 - [ ] Open source contributions
